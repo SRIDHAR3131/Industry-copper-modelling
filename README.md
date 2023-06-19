@@ -3,10 +3,14 @@
 This project focuses on modelling industrial copper data using Python and various libraries such as pandas, numpy, scikit-learn. The objective of the project is to preprocess the data, handle missing values, detect outliers, and handle skewness. Additionally, regression and classification models will be built to predict the selling price and determine if a sale was won or lost. The trained models will be saved as a pickle file for later use in a Streamlit application.
 
 ### HOMEPAGE
-![Screenshot 2023-06-19 165520](https://github.com/SRIDHAR3131/Industry-copper-modelling/assets/68391060/adb9c1df-7be0-4f15-a375-befd86934267)
+![Screenshot 2023-06-20 012035](https://github.com/SRIDHAR3131/Industry-copper-modelling/assets/68391060/61bdd5c1-5767-473c-bf25-ee2ee0a862c4)
+
 
 ### PRICE PREDICTION
-![Screenshot 2023-06-19 170923](https://github.com/SRIDHAR3131/Industry-copper-modelling/assets/68391060/9eebfef1-9798-44a0-ac73-dc5a489a88b7)
+![Screenshot 2023-06-20 010417](https://github.com/SRIDHAR3131/Industry-copper-modelling/assets/68391060/f83c4efd-481b-4dd9-a81b-01e1ebe19742)
+
+### PREDICT STATUS
+![Screenshot 2023-06-20 013726](https://github.com/SRIDHAR3131/Industry-copper-modelling/assets/68391060/9daf5294-1af3-45d4-aca0-5109079db783)
 
 ## Project Structure
 
